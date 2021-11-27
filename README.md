@@ -1,2 +1,2 @@
 # Sampath-s-Game
-I have made simple cli app to know how m6 my friends know about me
+I have made simple cli app to know how much my friends know about me
